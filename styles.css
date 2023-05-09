@@ -1,7 +1,5 @@
 .center{
-  display: flex;
   align-items: center;
-  justify-content: space-around;
 }
 .fond-bleu{
     background-color: #99bbff;
