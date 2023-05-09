@@ -1,6 +1,6 @@
-#center{
+.center{
     margin:auto;
 }
-#blue{
+body.blue{
     background-color: #99bbff;
 }
