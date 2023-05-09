@@ -1,5 +1,7 @@
 .center{
-    margin:auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 body{
     background-color: #99bbff;
