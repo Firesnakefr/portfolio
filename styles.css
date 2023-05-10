@@ -1,7 +1,5 @@
 .imagebg{
-  position: relative;
-  text-align: center;
-  color: white;
+  background-image: url("image1.jpg");
 }
 
 .text{
