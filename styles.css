@@ -1,5 +1,7 @@
-.center{
-  align-items: center;
+.imagebg{
+  position: relative;
+  text-align: center;
+  color: white;
 }
 .fond-bleu{
     background-color: #99bbff;
