@@ -1,11 +1,5 @@
-.imagebg{
-  background-image: url("image1.jpg");
-}
-
 .text{
-  position: absolute;
-  left: 16px;
-  top: 8px;
+  margin-bottom: 10px;
 }
 .fond-bleu{
     background-color: #99bbff;
