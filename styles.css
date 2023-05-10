@@ -3,6 +3,10 @@
   text-align: center;
   color: white;
 }
+
+.text{
+  position: absolute;
+}
 .fond-bleu{
     background-color: #99bbff;
 }
